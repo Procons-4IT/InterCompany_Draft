@@ -1,0 +1,36 @@
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\bin\Bayan_Integration.exe.config
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\Bayan Integration.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\bin\Bayan_Integration.exe
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\bin\Bayan_Integration.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\bin\Bayan_Integration.xml
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\bin\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\Bayan_Integration.frmLoginScreen.resources
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\Bayan Integration.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\Bayan_Integration.exe
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\Bayan_Integration.xml
+G:\International Projects_SAP9.0\Procons-4IT\Bahrain School\Bayan_Integration\Bayan Integration\obj\Debug\Bayan_Integration.pdb
+E:\SAP Projects\Addons\Procons\Bayan Integration\bin\Bayan_Integration.exe.config
+E:\SAP Projects\Addons\Procons\Bayan Integration\obj\Debug\Interop.SAPbobsCOM.dll
+E:\SAP Projects\Addons\Procons\Bayan Integration\obj\Debug\Bayan Integration.vbproj.ResolveComReference.cache
+E:\SAP Projects\Addons\Procons\Bayan Integration\obj\Debug\Bayan_Integration.exe
+E:\SAP Projects\Addons\Procons\Bayan Integration\obj\Debug\Bayan_Integration.xml
+E:\SAP Projects\Addons\Procons\Bayan Integration\obj\Debug\Bayan_Integration.pdb
+E:\SAP Projects\Addons\Procons\Bayan Integration\bin\Bayan_Integration.exe
+E:\SAP Projects\Addons\Procons\Bayan Integration\bin\Bayan_Integration.pdb
+E:\SAP Projects\Addons\Procons\Bayan Integration\bin\Bayan_Integration.xml
+E:\SAP Projects\Addons\Procons\Bayan Integration\bin\Interop.SAPbobsCOM.dll
+E:\SAP Projects\Addons\Procons\Bayan Integration\obj\Debug\Bayan_Integration.frmLoginScreen.resources
+E:\SAP Projects\Addons\Procons\Bayan Integration\obj\Debug\Bayan Integration.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\bin\Bayan_Integration.exe.config
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\obj\Debug\Bayan Integration.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\obj\Debug\Bayan_Integration.exe
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\obj\Debug\Bayan_Integration.xml
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\obj\Debug\Bayan_Integration.pdb
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\obj\Debug\Bayan_Integration.frmLoginScreen.resources
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\obj\Debug\Bayan Integration.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\bin\Bayan_Integration.exe
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\bin\Bayan_Integration.pdb
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\bin\Bayan_Integration.xml
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\bin\Interop.SAPbobsCOM.dll

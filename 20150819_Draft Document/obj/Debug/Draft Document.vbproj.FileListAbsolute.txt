@@ -1,0 +1,37 @@
+E:\Projects\AddOn\Document Details\obj\Debug\Interop.SAPbobsCOM.dll
+E:\Projects\AddOn\Document Details\obj\Debug\Interop.Scripting.dll
+E:\Projects\AddOn\Document Details\obj\Debug\Draft Document.vbproj.ResolveComReference.cache
+E:\Projects\AddOn\Document Details\obj\Debug\DraftDocument.Resources.resources
+E:\Projects\AddOn\Document Details\obj\Debug\Draft Document.vbproj.GenerateResource.Cache
+E:\Projects\AddOn\Document Details\bin\Debug\Draft Document.exe
+E:\Projects\AddOn\Document Details\bin\Debug\Draft Document.pdb
+E:\Projects\AddOn\Document Details\bin\Debug\Draft Document.xml
+E:\Projects\AddOn\Document Details\bin\Debug\Interop.SAPbobsCOM.dll
+E:\Projects\AddOn\Document Details\bin\Debug\Interop.SAPbouiCOM.dll
+E:\Projects\AddOn\Document Details\bin\Debug\Interop.Scripting.dll
+E:\Projects\AddOn\Document Details\obj\Debug\Interop.SAPbouiCOM.dll
+E:\Projects\AddOn\Document Details\obj\Debug\Draft Document.exe
+E:\Projects\AddOn\Document Details\obj\Debug\Draft Document.xml
+E:\Projects\AddOn\Document Details\obj\Debug\Draft Document.pdb
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Draft Document\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Draft Document\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Draft Document\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Draft Document\obj\Debug\Draft Document.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Draft Document\obj\Debug\Draft Document.exe
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Draft Document\obj\Debug\Draft Document.xml
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Draft Document\obj\Debug\Draft Document.pdb
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Draft Document\bin\Debug\Draft Document.exe
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Draft Document\bin\Debug\Draft Document.pdb
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Draft Document\bin\Debug\Draft Document.xml
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Draft Document\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Draft Document\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Draft Document\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Draft Document\obj\Debug\DraftDocument.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Draft Document\obj\Debug\Draft Document.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Deliveries\20150819_DraftToDocument 1.0.2\20150819_Draft Document\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Deliveries\20150819_DraftToDocument 1.0.2\20150819_Draft Document\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Deliveries\20150819_DraftToDocument 1.0.2\20150819_Draft Document\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Deliveries\20150819_DraftToDocument 1.0.2\20150819_Draft Document\obj\Debug\Draft Document.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Deliveries\20150819_DraftToDocument 1.0.2\20150819_Draft Document\obj\Debug\Draft Document.exe
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Deliveries\20150819_DraftToDocument 1.0.2\20150819_Draft Document\obj\Debug\Draft Document.xml
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\Deliveries\20150819_DraftToDocument 1.0.2\20150819_Draft Document\obj\Debug\Draft Document.pdb

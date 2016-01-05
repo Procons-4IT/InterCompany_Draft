@@ -1,0 +1,13 @@
+<Application>
+	<Menus>
+		<action type="add">
+			
+			<!--<Menu Checked="0" Enabled="1" FatherUID="2048" Image="" Position="2" String="Sales Order Line Closure"
+			Type="1" UniqueID="DABT_910">
+			</Menu>-->
+				<Menu Checked="0" Enabled="1" FatherUID="2048" Image="" Position="2" String="Sales Invoice Processing"
+				Type="1" UniqueID="DABT_911">
+				</Menu>
+		</action>
+	</Menus>
+</Application>

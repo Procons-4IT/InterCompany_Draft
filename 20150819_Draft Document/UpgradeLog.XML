@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Project Template">
+</Property><Property Name="Solution File" Value="E:\Projects\AddOn\Document Details\Project Template.sln">
+</Property><Property Name="User Options File" Value="E:\Projects\AddOn\Document Details\Project Template.suo">
+</Property><Property Name="Date" Value="04 June 2015">
+</Property><Property Name="Time" Value="12:37">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Project Template.sln" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\Project Template.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Project Template.suo" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\Project Template.suo">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Project Template.vbproj" Description="Project file successfully backed up as E:\Projects\AddOn\Document Details\Backup\Project Template.vbproj">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Project Template.vbproj.user" Description="Project user file successfully backed up as E:\Projects\AddOn\Document Details\Backup\Project Template.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Base Classes\clsBase.vb" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\Base Classes\clsBase.vb">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Base Classes\clsListener.vb" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\Base Classes\clsListener.vb">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Base Classes\clsLog_Error.vb" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\Base Classes\clsLog_Error.vb">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Base Classes\clsStart.vb" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\Base Classes\clsStart.vb">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Base Classes\clsTable.vb" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\Base Classes\clsTable.vb">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Base Classes\clsUtilities.vb" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\Base Classes\clsUtilities.vb">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Base Classes\DBConnection.vb" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\Base Classes\DBConnection.vb">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Business Logics\clsSalesOrder.vb" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\Business Logics\clsSalesOrder.vb">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Business Logics\clsTemplateClasss.vb" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\Business Logics\clsTemplateClasss.vb">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Business Logics\clsStockRequest.vb" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\Business Logics\clsStockRequest.vb">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Business Logics\clsSystemForms.vb" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\Business Logics\clsSystemForms.vb">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Business Logics\Custom_ChooseFromList.vb" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\Business Logics\Custom_ChooseFromList.vb">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Modules\modVariables.vb" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\Modules\modVariables.vb">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="My Project\Application.Designer.vb" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="ClassDiagram1.cd" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Modules\vssver.scc" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\Modules\vssver.scc">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="My Project\Application.myapp" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="My Project\Settings.settings" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="bin\Debug\XML Files\Menu.xml" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\bin\Debug\XML Files\Menu.xml">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="bin\Debug\XML Files\RemoveMenus.xml" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\bin\Debug\XML Files\RemoveMenus.xml">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="My Project\Resources.resx" Description="File successfully backed up as E:\Projects\AddOn\Document Details\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="1" Project="Project Template" Source="Project Template.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Project Template.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Project Template" Source="Project Template.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Project Template.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Project Template.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Project Template" Source="Project Template.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

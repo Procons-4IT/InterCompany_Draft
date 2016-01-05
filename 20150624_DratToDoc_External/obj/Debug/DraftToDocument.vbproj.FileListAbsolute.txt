@@ -1,0 +1,18 @@
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\bin\DraftToDocument.exe.config
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\obj\Debug\DraftToDocument.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\bin\DraftToDocument.exe
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\bin\DraftToDocument.pdb
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\bin\DraftToDocument.xml
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\bin\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\obj\Debug\DraftToDocument.frmLoginScreen.resources
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\obj\Debug\DraftToDocument.vbproj.GenerateResource.Cache
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\obj\Debug\DraftToDocument.exe
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\obj\Debug\DraftToDocument.xml
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\DratToDoc\obj\Debug\DraftToDocument.pdb
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\Deliveries\20150624_DraftToDocument External\20150624_DratToDoc\bin\DraftToDocument.exe.config
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\Deliveries\20150624_DraftToDocument External\20150624_DratToDoc\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\Deliveries\20150624_DraftToDocument External\20150624_DratToDoc\obj\Debug\DraftToDocument.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\Deliveries\20150624_DraftToDocument External\20150624_DratToDoc\obj\Debug\DraftToDocument.exe
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\Deliveries\20150624_DraftToDocument External\20150624_DratToDoc\obj\Debug\DraftToDocument.xml
+G:\International Projects_SAP9.0\Procons-4IT\InterCompany_Draft\External Application\Deliveries\20150624_DraftToDocument External\20150624_DratToDoc\obj\Debug\DraftToDocument.pdb
